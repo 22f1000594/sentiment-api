@@ -1,3 +1,6 @@
+[![Daily Commit](https://github.com/22f1000594-collab/sentiment-api/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/22f1000594-collab/sentiment-api/actions/workflows/daily-commit.yml)
+
+
 # Comment Sentiment Analysis API
 
 A FastAPI endpoint that uses OpenAI's structured outputs to analyze comment sentiment.
